@@ -1,0 +1,14 @@
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\obj\Debug\Senparc.Weixin.MP.Test.csprojAssemblyReference.cache
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\obj\Debug\Senparc.Weixin.MP.Test.csproj.CoreCompileInputs.cache
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\bin\Debug\Senparc.Weixin.MP.Test.dll.config
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\bin\Debug\Senparc.Weixin.MP.Test.dll
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\bin\Debug\Senparc.Weixin.MP.Test.pdb
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\bin\Debug\Senparc.Weixin.dll
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\bin\Debug\Senparc.Weixin.MP.dll
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\bin\Debug\Senparc.Weixin.pdb
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\bin\Debug\Senparc.Weixin.MP.pdb
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\obj\Debug\Senparc.Weixin.MP.Test.csproj.CopyComplete
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\obj\Debug\Senparc.Weixin.MP.Test.dll
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\obj\Debug\Senparc.Weixin.MP.Test.pdb
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\obj\Debug\Senparc.Weixin.MP.Test.Form1.resources
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP.Test\obj\Debug\Senparc.Weixin.MP.Test.csproj.GenerateResource.cache

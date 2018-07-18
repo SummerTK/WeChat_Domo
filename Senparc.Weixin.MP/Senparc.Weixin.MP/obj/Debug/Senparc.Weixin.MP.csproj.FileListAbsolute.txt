@@ -1,0 +1,14 @@
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.csprojAssemblyReference.cache
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.csproj.CoreCompileInputs.cache
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP.BuildOutPut\Senparc.Weixin.MP.dll
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP.BuildOutPut\Senparc.Weixin.MP.pdb
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.csproj.CopyComplete
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.dll
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.pdb
+C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP.BuildOutPut\Senparc.Weixin.MP.dll
+C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP.BuildOutPut\Senparc.Weixin.MP.pdb
+C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.csprojAssemblyReference.cache
+C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.csproj.CoreCompileInputs.cache
+C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.csproj.CopyComplete
+C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.dll
+C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.pdb

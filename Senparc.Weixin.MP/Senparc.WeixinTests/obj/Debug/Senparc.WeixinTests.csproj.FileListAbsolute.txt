@@ -1,0 +1,2 @@
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.WeixinTests\obj\Debug\Senparc.WeixinTests.csprojAssemblyReference.cache
+C:\Users\Less\Downloads\WeiXinMPSDK-482d5433bf633650db823c92c886c4246ffe59a7\src\Senparc.Weixin.MP\Senparc.WeixinTests\obj\Debug\Senparc.WeixinTests.csproj.CoreCompileInputs.cache
