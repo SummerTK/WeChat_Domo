@@ -7,6 +7,7 @@ using Senparc.Weixin.Helpers;
 using Senparc.Weixin.MP;
 using Senparc.Weixin.MP.AdvancedAPIs;
 using Senparc.Weixin.MP.AdvancedAPIs.Card;
+using Senparc.Weixin.MP.Containers;
 
 namespace WebApplication1.Controllers
 {
@@ -17,27 +18,40 @@ namespace WebApplication1.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            string accessToken = "11_jFGzse3a4wGPBq8cCTsKUMGabo2V_dmJVKHKiltmkNmhTSKHv8J6BaJ5nTQ6-eTeNhdh1LNNOcGEkbYelx6DlFaSx9wIcOIlaKGMMJujb9BptSNhWnDq7Vpyb_oQuFT_nYJpp7bOnT5ew1kESKBcACAMEV";
-
-            var data1 = new Card_GrouponData()
+            try
             {
-                base_info = _BaseInfo,
-                deal_detail = "测试"
-            };
+                AccessTokenContainer.Register("wx4f8e94b7a153ff43", "700fcec799b8ff8f1463eb31585eafbc");
 
-            var result1 = CardApi.CreateCard(accessToken, data1);
+                var accessToken = AccessTokenContainer.GetAccessToken("wx4f8e94b7a153ff43");
 
-            var data = new Card_MemberCardData()
+                Card_GrouponData data1 = new Card_GrouponData()
+                {
+                    base_info = _BaseInfo,
+                    deal_detail = "测试"
+                };
+
+                //string json = JsonConvert.SerializeObject(card_BaseInfoBase);
+
+                var result1 = CardApi.CreateCard(accessToken, data1);
+
+                var data = new Card_MemberCardData()
+                {
+                    base_info = _BaseInfo,
+                    supply_bonus = true,
+                    supply_balance = false,
+                    prerogative = "123123",
+                    bind_old_card_url = "www.daidu.com",
+                    wx_activate = true
+                };
+
+                var result = CardApi.CreateCard(accessToken, data);
+            }
+            catch (Exception ex)
             {
-                base_info = _BaseInfo,
-                supply_bonus = true,
-                supply_balance = false,
-                prerogative = "123123",
-                bind_old_card_url = "www.daidu.com",
-                wx_activate = true
-            };
 
-            var result = CardApi.CreateCard(accessToken, data);
+                throw;
+            }
+           
 
            
             return new string[] { "value1", "value2" };

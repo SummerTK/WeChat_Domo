@@ -1,0 +1,11 @@
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\bin\Debug\netcoreapp2.0\Webchat_Sdk_Demo.deps.json
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\bin\Debug\netcoreapp2.0\Webchat_Sdk_Demo.runtimeconfig.json
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\bin\Debug\netcoreapp2.0\Webchat_Sdk_Demo.runtimeconfig.dev.json
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\bin\Debug\netcoreapp2.0\Webchat_Sdk_Demo.dll
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\obj\Debug\netcoreapp2.0\Webchat_Sdk_Demo.csprojAssemblyReference.cache
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\obj\Debug\netcoreapp2.0\Webchat_Sdk_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\obj\Debug\netcoreapp2.0\Webchat_Sdk_Demo.AssemblyInfoInputs.cache
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\obj\Debug\netcoreapp2.0\Webchat_Sdk_Demo.AssemblyInfo.cs
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\bin\Debug\netcoreapp2.0\Webchat_Sdk_Demo.pdb
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\obj\Debug\netcoreapp2.0\Webchat_Sdk_Demo.dll
+C:\Users\Less\Desktop\Webchat_Sdk_Demo\Webchat_Sdk_Demo\obj\Debug\netcoreapp2.0\Webchat_Sdk_Demo.pdb

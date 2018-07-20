@@ -1,0 +1,157 @@
+
+[[[自动注册扩展缓存完成]]]
+[2018/7/19 9:10:26]
+[线程：1]
+    注册总用时：1.7938ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/7/19 9:10:26]
+[线程：1]
+    微信扩展缓存注册总用时：31.465ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[WeixinException]]]
+[2018/7/19 9:10:31]
+[线程：8]
+    UnRegisterAppIdException
+    AccessTokenOrAppId：
+    Message：此appId（wx4f8e94b7a153ff43）尚未注册，请先使用AccessTokenContainer.Register完成注册（全局执行一次即可）！
+    StackTrace：
+
+[[[自动注册扩展缓存完成]]]
+[2018/7/19 9:11:04]
+[线程：1]
+    注册总用时：1.2308ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/7/19 9:11:04]
+[线程：1]
+    微信扩展缓存注册总用时：44.5183ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[WeixinException]]]
+[2018/7/19 9:11:08]
+[线程：9]
+    UnRegisterAppIdException
+    AccessTokenOrAppId：
+    Message：此appId（wx4f8e94b7a153ff43）尚未注册，请先使用AccessTokenContainer.Register完成注册（全局执行一次即可）！
+    StackTrace：
+
+[[[自动注册扩展缓存完成]]]
+[2018/7/19 9:20:46]
+[线程：1]
+    注册总用时：1.4182ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/7/19 9:20:46]
+[线程：1]
+    微信扩展缓存注册总用时：46.1391ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2018/7/19 9:20:56]
+[线程：8]
+    URL：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx4f8e94b7a153ff43&secret=700fcec799b8ff8f1463eb31585eafbc
+    Result：
+{"access_token":"11_5w-FMrYWWGrX9jlEOWXng-JU_uReCJxcMbKsaRj8Gwio2K6EY4uY8GkQfefcasO2HXIhKyj3n3Epb2XEAda5iXaIn7fOOshp-ftQ3M6YNPgV5j4eW29OxqH7mBqmL_K2L-ouEbLBJjbPjd6uNORiAAAIJM","expires_in":7200}
+
+[[[接口调用]]]
+[2018/7/19 9:21:28]
+[线程：16]
+    URL：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx4f8e94b7a153ff43&secret=700fcec799b8ff8f1463eb31585eafbc
+    Result：
+{"access_token":"11_OzNbBnDKYCF4SKjQqpUsz933KUFKS_rS7roCJTXKQpqY9VzDkX0ys1MC4m1bqbS-URmL0jCbwkNbCQ5Lv9JYBvKoIVibn9X2Lwci43-ar_fK7sL7eesPKsO64xYywtk1nJOSm-T4cMXQmVJfKOFdACAOSJ","expires_in":7200}
+
+[[[自动注册扩展缓存完成]]]
+[2018/7/19 9:25:36]
+[线程：1]
+    注册总用时：1.2373ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/7/19 9:25:36]
+[线程：1]
+    微信扩展缓存注册总用时：15.9354ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2018/7/19 9:25:41]
+[线程：8]
+    URL：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx4f8e94b7a153ff43&secret=700fcec799b8ff8f1463eb31585eafbc
+    Result：
+{"access_token":"11_-0UwcETqDU-JT3sEn0RvQ6bPj6Cuf0tGZp88dIib96bbkvHZm3wTzkqJVjy1OcUi5EEZxvstWfPrqx8X0RXzsNG6I8jThvo9TtdQgnuhpdcG2FwKWRDa_PsO2bg6Hkl8ntHaLF_8lFPVxCdVRRSbACAYYZ","expires_in":7200}
+
+[[[自动注册扩展缓存完成]]]
+[2018/7/19 9:44:17]
+[线程：1]
+    注册总用时：1.0738ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/7/19 9:44:17]
+[线程：1]
+    微信扩展缓存注册总用时：125.9223ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2018/7/19 9:44:22]
+[线程：8]
+    URL：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx4f8e94b7a153ff43&secret=700fcec799b8ff8f1463eb31585eafbc
+    Result：
+{"access_token":"11_cD8Q22sEPseGC-wePtrJt-Ke5TBWcPpvYv-1YAlfHnNIgOWXXaE9eAmBSZLlUNZNuSszJfjtgFVK1BQahqHnby8CBZDQKVhr4vM0sakZElkdnDb-IElTyFIt33xc2s5MMZUV250pxvNUbYQpUBQjAJAKRG","expires_in":7200}
+
+[[[自动注册扩展缓存完成]]]
+[2018/7/19 9:47:43]
+[线程：1]
+    注册总用时：1.7778ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/7/19 9:47:43]
+[线程：1]
+    微信扩展缓存注册总用时：23.2448ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[接口调用]]]
+[2018/7/19 9:47:55]
+[线程：8]
+    URL：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx4f8e94b7a153ff43&secret=700fcec799b8ff8f1463eb31585eafbc
+    Result：
+{"access_token":"11_1GIu6-9x4Kwx6FSm9cM9cNn05wSSyV2zDCNafSraPmObqpAqcGFzKXaNwjVKIA9KqeGHX-ccyuDswq7FMW2I345o_uoqy1SFKLXswwRr74mxcW5ro7qN7VtQQ9C_f7tTwKpl75mYXL8J6bNPQYYdABATBB","expires_in":7200}
+
+[[[自动注册扩展缓存完成]]]
+[2018/7/19 9:54:35]
+[线程：1]
+    注册总用时：1.0187ms
+自动扫描程序集：0个
+扩展缓存：
+
+[[[微信扩展缓存注册完成]]]
+[2018/7/19 9:54:35]
+[线程：1]
+    微信扩展缓存注册总用时：29.2268ms
+扩展缓存：Senparc.Weixin.Cache.LocalContainerCacheStrategy
+
+[[[WeixinException]]]
+[2018/7/19 9:54:51]
+[线程：8]
+    UnRegisterAppIdException
+    AccessTokenOrAppId：
+    Message：此appId（wx4f8e94b7a153ff43）尚未注册，请先使用AccessTokenContainer.Register完成注册（全局执行一次即可）！
+    StackTrace：
+
+[[[接口调用]]]
+[2018/7/19 9:55:12]
+[线程：8]
+    URL：https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx4f8e94b7a153ff43&secret=700fcec799b8ff8f1463eb31585eafbc
+    Result：
+{"access_token":"11_yHnopS7NlPY3dyqHNScClQGSklmg4X2T9jdP0hQ3RJo8J1vLKU5WziDKoNyVdPIIPaaG19XpVGwVylpL2F_NNiyPnpXYjr5ZbQwNtInw9O1SCrJJdJqq9pLvsHoNIWiAGATOC","expires_in":7200}

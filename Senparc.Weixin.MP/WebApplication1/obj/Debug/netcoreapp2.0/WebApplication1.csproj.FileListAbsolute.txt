@@ -19,14 +19,8 @@ C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\bin
 C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
 C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
 C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
-C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\bin\Debug\netcoreapp2.0\Senparc.Weixin.dll
-C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\bin\Debug\netcoreapp2.0\Senparc.Weixin.MP.dll
-C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\bin\Debug\netcoreapp2.0\Senparc.Weixin.pdb
-C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\bin\Debug\netcoreapp2.0\Senparc.Weixin.MP.pdb
-C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
 C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
 C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
 C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
-C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CopyComplete
 C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
 C:\Users\Less\Documents\GitHub\WeChat_Domo\Senparc.Weixin.MP\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
